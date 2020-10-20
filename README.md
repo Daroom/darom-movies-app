@@ -1,4 +1,4 @@
-# Movies-dataBase-app
+# darom-movies-app
 
 Used technologies : React.js, Css3.
 
